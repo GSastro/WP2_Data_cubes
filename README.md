@@ -7,3 +7,5 @@ J094521_stat.fits is the corresponding error cube.
 
 The analysis of these data has been published: https://www.aanda.org/articles/aa/pdf/2022/09/aa43585-22.pdf. In the paper all the details on the data reduction and analysis are provided.
 
+'Comparison_literature.pdf' show the comparison between the result from the source cited above and the literature, especially with Fiore et al. 2017 and Musiimenta et al. (submitted).
+
